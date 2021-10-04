@@ -1,10 +1,5 @@
-### Eaiii! Me chamo João Pedro Barbosa 👋
+### Eaiii! Me chamo João Pedro 👋
 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript 
-- 🤔 Procurando sempre algo novo para aprender 
-- 💬 Entre em contato comigo pelo meu email: jpedrogarrido16@gamil.com
-- 📫 Meu instagram: instagram.com/j.pedr1n/
-- ⚡ Meu cachorro se chama Rodolfo 
 
  <div>
   <a href="https://github.com/JoaoPBarbosa">
@@ -20,5 +15,4 @@
   <a href = "mailto:jpedrogarrido16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro--barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/JoaoPBarbosa/blob/output/github-contribution-grid-snake.svg)
- </div>
+ 
